@@ -29,4 +29,4 @@ Heavy optimizations with agent code to reduce overhead (maybe using JNI), improv
 * Denilson Amorim (Federal University of Bahia - Undergraduate Student)
 * Rajiv Nishtala (Norwegian University of Science and Technology - Postdoctoral Researcher)
 * Vinicius Petrucci (University of Pittsburgh - Visiting Scholar) 
-The Juno board infrastructure was originally provided by the Barcelona Supercomputing Center, with the support of Professors Xavier Martorell and Paul Carpenter.
+* The Juno board infrastructure was originally provided by the Barcelona Supercomputing Center, with the support of Professors Xavier Martorell and Paul Carpenter.
